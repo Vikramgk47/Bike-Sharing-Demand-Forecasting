@@ -9,7 +9,6 @@ This project uses **JMP** and **MS Excel** to forecast hourly bike rental demand
 - Forecast hourly demand for bike rentals based on weather, seasonality, and user types.
 - Provide insights into user behavior (casual vs. registered).
 - Recommend strategies for real-time rebalancing and customer satisfaction.
-
 ---
 
 ## 🛠️ Tools Used
